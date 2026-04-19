@@ -255,7 +255,7 @@ const Home: React.FC<Props> = ({ setEmail, darkMode, toggleDarkMode }) => {
                 }}
               >
                 Edit
-              </Button>
+              </Button> 
             </DialogActions>
           </form>
         </Dialog>
